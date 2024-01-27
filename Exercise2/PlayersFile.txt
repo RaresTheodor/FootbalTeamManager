@@ -1,0 +1,4 @@
+1001,Dennis Man,Aleea Livezilor nr. 21,Striker,2752,13
+1002,Adrian Sut,Str. Florilor nr. 15,Midfielder,4500,6
+1003,Stefan Tarnovanu,Bd. Libertatii nr. 12,Goalkeeper,6000,1
+1004,Risto Radunovic,Aleea Plopilor nr. 10,Defender,5200,5

@@ -1,0 +1,14 @@
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfoInputs.cache
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfo.cs
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.exe
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.deps.json
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.runtimeconfig.json
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.dll
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.pdb
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.dll
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\refint\Exercise2.dll
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.pdb
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.genruntimeconfig.cache
+C:\Users\bdiac\Desktop\C#\Exercise2\Exercise2\obj\Debug\net8.0\ref\Exercise2.dll

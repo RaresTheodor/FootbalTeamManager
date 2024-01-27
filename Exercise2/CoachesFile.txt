@@ -1,0 +1,4 @@
+2001,Andrei Radu,Aleea Magnoliei nr. 12,Striker,4800,3
+2002,Stefan Munteanu,Str. Castanilor nr. 30,Midfielder,5100,2
+2003,Adrian Popovici,Bd. Rozelor nr. 5,Defender,35555,6
+2004,Marius Stanescu,Aleea Crizantemelor nr. 8,Goalkeeper,5900,1
